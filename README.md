@@ -1,3 +1,3 @@
 # B-Block
 
-B-Block is a stateful firewall using BPF
+B-Block is a WIP stateful firewall using BPF

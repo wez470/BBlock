@@ -1,0 +1,9 @@
+version: '3'
+services:
+  ebpf-builder:
+    image: b-block/ebpf-builder:latest
+    tty: true
+    volumes:
+    - type: bind
+      source: ../
+      target: /workspace

@@ -1,0 +1,6 @@
+{
+	"name": "BPF Dev",
+	"dockerComposeFile": ["docker-compose.yml"],
+	"service": "ebpf-builder",
+	"workspaceFolder": "/workspace"
+}
